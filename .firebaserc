@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "eva-2-99345": {
+      "hosting": {
+        "app": [
+          "eva-2-99345"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "eva-2-99345"
+  }
+}
